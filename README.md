@@ -1,2 +1,3 @@
-# statistical_learning_python
-Introduction to Statistical Learning in Python
+# Introduction to Statistical Learning in Python
+
+This repo reviews the book Introduction to Statistical Learning in Python.
